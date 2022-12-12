@@ -1,3 +1,1 @@
-# js-lyjsnr
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-lyjsnr)
+<p>What's going on with this thing?</p>
